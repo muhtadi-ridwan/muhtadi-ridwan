@@ -2,4 +2,4 @@
   </h1>  
 </a>
  
-<h3> <em><strong>A Full Stack Web Developer | Future Software Engineer | A Tech Enthusiast</em></h3>
+<h3> <strong>A Full Stack Web Developer | Future Software Engineer | A Tech Enthusiast</h3>
