@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif" height=200 width=100%>
+<img src="https://media.tenor.com/kGBsOvMQFhIAAAAC/welcome-home-welcome.gif" height=200 width=100%>
 <h1 align=center> Muhtadi Ridwan</a> 
   <a href="mailto:muhtadiridwan5@gmail.com"> 
         <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
