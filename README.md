@@ -4,7 +4,6 @@
     </a>  
   <a href="https://www.linkedin.com/in/muhtadi-ridwan-6b53341b8/"> 
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a></img></h1>
-  
+  </a></img></h1>  
 </a>
 
