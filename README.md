@@ -1,3 +1,4 @@
+<img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" width="100%" height="300">
 <h1 align=center>Hey There! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving_hand" height="40px"> I'm <a href=""> Muhtadi Ridwan</a> 
   <a href="mailto:muhtadiridwan5@gmail.com"> 
         <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
